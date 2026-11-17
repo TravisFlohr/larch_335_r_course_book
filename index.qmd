@@ -163,10 +163,6 @@ We expect graduate students to participate in 800-level courses and engage with 
 
 {{< include boilerplate/00_ai_no_policy.qmd >}}
 
-<!-- 00_policies_resources.qmd -->
-
-{{< include boilerplate/00_policies_resources.qmd >}}
-
 ## References
 Brzuszek, R. F., Harkess, R. L., & Stortz, E. (2011). Perceptions of the Importance of Plant Material Knowledge by Practicing Landscape Architects in the Southeastern United States. HortTechnology, 21(1), 126–130. https://doi.org/10.21273/HORTTECH.21.1.126 
 
